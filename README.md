@@ -1,4 +1,3 @@
-THAT'S MY TESLA CLONE BUILT WITH REACT JS :)
 
 ![t1](https://user-images.githubusercontent.com/79022070/166230131-cdf57f4c-a53d-42e2-af9a-1ab0d8a219c4.png)
 
