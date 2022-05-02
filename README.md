@@ -1,3 +1,9 @@
+THAT'S MY TESLA CLONE BUILT WITH REACT JS :)
+
+![t1](https://user-images.githubusercontent.com/79022070/166230131-cdf57f4c-a53d-42e2-af9a-1ab0d8a219c4.png)
+
+![t2](https://user-images.githubusercontent.com/79022070/166230176-9655394f-28fd-42bc-a85e-8e73324168f9.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
